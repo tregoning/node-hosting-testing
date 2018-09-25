@@ -1,0 +1,16 @@
+{
+  "name": "node-hosting-testing",
+  "version": "0.0.1",
+  "description": "node test app",
+  "engines": {
+    "node": "10.9.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "license": "MIT"
+}
